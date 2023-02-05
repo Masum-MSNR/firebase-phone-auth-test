@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356061742272",
+    "project_id": "msnr-firebase-phone-auth",
+    "storage_bucket": "msnr-firebase-phone-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356061742272:android:7c90204e239bc64e721925",
+        "android_client_info": {
+          "package_name": "com.msnr.firebase_phone_auth_with_flutter.firebase_phone_auth_with_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356061742272-mj6431pkedfnf84568klf2u6sbuvin08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9RrYRI6fl1EoYF1JhXf5E9tEDifZ1Ax8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356061742272-mj6431pkedfnf84568klf2u6sbuvin08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
